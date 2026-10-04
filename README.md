@@ -1,27 +1,32 @@
 # Awesome UPSC Civil Services Examination (CSE) Resources & Study Materials 📚
 
 [![UPSC Club](https://img.shields.io/badge/Platform-UPSC_Club-0070f3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://upscclub.com/)
+[![LotusArise](https://img.shields.io/badge/Platform-LotusArise-e11d48?style=for-the-badge&logo=safari&logoColor=white)](https://lotusarise.com/)
 [![Free UPSC PDFs](https://img.shields.io/badge/Free_Downloads-UPSC_Materials-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://upscclub.com/free-upsc-pdf/)
-[![Test Series](https://img.shields.io/badge/Practice-Free_Test_Series-orange?style=for-the-badge&logo=target&logoColor=white)](https://upscclub.com/free-test-series-for-upsc/)
+[![LotusArise Courses](https://img.shields.io/badge/Master_Kits-LotusArise_Packs-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white)](https://lotusarise.com/courses/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
 A comprehensive, curated repository of high-yield study materials, syllabus trackers, standard book summaries, NCERT compilations, topper handwritten notes, and test series for the **UPSC Civil Services Examination (IAS / IPS / IFS / Central Services)**.
 
-Curated and maintained by the **[UPSC Club](https://upscclub.com/)** community.
+Jointly curated and maintained by **[UPSC Club](https://upscclub.com/)** and **[LotusArise](https://lotusarise.com/)**.
 
 ---
 
-## 🌐 Official Portals & Hubs
+## 🌐 Official Portals & Resource Hubs
 
-| Resource Portal | Direct Link | Description |
-| :--- | :--- | :--- |
-| 🏠 **Official Website** | [upscclub.com](https://upscclub.com/) | Central hub for all UPSC CSE notes, guides, and strategy updates. |
-| 📥 **Free UPSC PDF Materials** | [Free UPSC PDFs](https://upscclub.com/free-upsc-pdf/) | Complete repository of downloadable PDFs for Prelims and Mains. |
-| 🎯 **Free Test Series Hub** | [Free Test Series](https://upscclub.com/free-test-series-for-upsc/) | Prelims GS, CSAT, and Mains mock test papers with answer keys. |
-| 🛒 **Optional & Complete Store** | [UPSC Club Store](https://upscclub.com/shop/) | Dedicated optional subjects, Postal correspondence compilations, and full bundles. |
-| 👥 **Member Community** | [Membership Club](https://upscclub.com/membership/) | Aspirant study group access, mentorship updates, and curated material drops. |
-| 🤖 **AI Study Context (LLMs)** | [llms.txt](https://upscclub.com/llms.txt) | Machine-readable syllabus and knowledge indexes for AI-assisted study. |
+| Platform | Resource Portal | Direct Link | Description |
+| :--- | :--- | :--- | :--- |
+| **UPSC Club** | 🏠 **Main Portal** | [upscclub.com](https://upscclub.com/) | Central aggregator for free UPSC notes, guides, and strategy updates. |
+| **UPSC Club** | 📥 **Free UPSC PDF Materials** | [Free UPSC PDFs](https://upscclub.com/free-upsc-pdf/) | Complete repository of downloadable PDFs for Prelims and Mains. |
+| **UPSC Club** | 🎯 **Free Test Series Hub** | [Free Test Series](https://upscclub.com/free-test-series-for-upsc/) | Prelims GS, CSAT, and Mains mock test papers with answer keys. |
+| **UPSC Club** | 🛒 **Store & Correspondence Notes** | [UPSC Club Store](https://upscclub.com/shop/) | Optional postal correspondence packs, topper notes, and full subject bundles. |
+| **UPSC Club** | 👥 **Member Community** | [Membership Club](https://upscclub.com/membership/) | Study group access, mentorship updates, and curated material drops. |
+| **LotusArise** | 🌸 **Main Portal** | [lotusarise.com](https://lotusarise.com/) | In-depth academic notes, Optional Master Kits, and micro-topic coverage. |
+| **LotusArise** | 🎓 **All Master Courses & Kits** | [LotusArise Courses](https://lotusarise.com/courses/) | Dedicated 300+ score packs, PYQ master packs, and comprehensive PDFs. |
+| **LotusArise** | ⚡ **InShorts Quick Revision** | [LotusArise InShorts](https://lotusarise.com/inshorts/) | High-yield bite-sized summaries of current affairs, schemes, and static facts. |
+| **LotusArise** | 📰 **UPSC Preparation Blog** | [LotusArise Blog](https://lotusarise.com/blog/) | Analytical deep dives, answer-writing frameworks, and subject strategies. |
+| **AI Context** | 🤖 **Machine-Readable Index** | [llms.txt](https://upscclub.com/llms.txt) | Standardized Markdown knowledge index for AI-assisted study workflows. |
 
 ---
 
@@ -29,17 +34,18 @@ Curated and maintained by the **[UPSC Club](https://upscclub.com/)** community.
 
 - [Exam Architecture & Overview](#-exam-architecture--overview)
 - [NCERT Foundation Textbooks (Class 6–12)](#-ncert-foundation-textbooks-class-612)
+- [LotusArise Specialized UPSC Optional & Prelims Master Packs](#-lotusarise-specialized-upsc-optional--prelims-master-packs)
+  - [1. Geography Optional (Paper I & II)](#1-geography-optional-paper-i--ii)
+  - [2. PSIR (Political Science & International Relations)](#2-psir-political-science--international-relations)
+  - [3. History Optional](#3-history-optional)
+  - [4. Sociology Optional](#4-sociology-optional)
+  - [5. Prelims PYQs & Explanatory Solutions](#5-prelims-pyqs--explanatory-solutions)
 - [General Studies Mains Core Notes (GS I–IV)](#-general-studies-mains-core-notes-gs-iiv)
   - [GS Paper I: Heritage, History, Geography & Society](#gs-paper-i)
   - [GS Paper II: Governance, Constitution, Polity & IR](#gs-paper-ii)
   - [GS Paper III: Economy, Science & Tech, Environment & Security](#gs-paper-iii)
   - [GS Paper IV: Ethics, Integrity & Aptitude](#gs-paper-iv)
-- [Optional Subjects Master Compilations](#-optional-subjects-master-compilations)
-  - [PSIR (Political Science & International Relations)](#political-science--international-relations-psir)
-  - [Geography Optional](#geography-optional)
-  - [History Optional](#history-optional)
-  - [Hindi Sahitya Optional](#hindi-sahitya-optional)
-  - [Mathematics Optional](#mathematics-optional)
+- [UPSC Club Optional Subjects Master Compilations](#-upsc-club-optional-subjects-master-compilations)
 - [Previous Year Question Papers (PYQs)](#-previous-year-question-papers-pyqs)
 - [Prelims & Mains Test Series](#-prelims--mains-test-series)
 - [How to Contribute](#-how-to-contribute)
@@ -60,6 +66,39 @@ The UPSC Civil Services Examination is conducted in three stages:
    - **Paper II to V**: General Studies I, II, III, IV (250 marks each)
    - **Paper VI & VII**: Optional Subject Paper I & II (250 marks each)
 3. **Personality Test (Interview)**: 275 marks.
+
+---
+
+## 🌸 LotusArise Specialized UPSC Optional & Prelims Master Packs
+
+[LotusArise](https://lotusarise.com/) provides some of the most thorough, highly structured, and topper-recommended self-study resources for UPSC CSE.
+
+### 1. Geography Optional (Paper I & II)
+* **[Geography Optional 300+ Score Pack with PYQ Solutions](https://lotusarise.com/course/geography-optional-300-score-pack/)** — The premier pack featuring topic-wise syllabus coverage paired with comprehensive model answers for past exam questions.
+* **[Geography Optional Mains Master Kit](https://lotusarise.com/course/geography-optional-mains-master-kit/)** — Complete theory notes, diagrams, case studies, and contemporary geographical perspectives.
+* **[UPSC Geography Optional Complete Notes PDF](https://lotusarise.com/course/upsc-geography-optional-complete-notes-pdf/)** — Digital compilation for rapid screen and tablet revision.
+* **Free Web Reference Modules**:
+  * [Fundamental Concepts of Geomorphology](https://lotusarise.com/fundamental-concepts-of-geomorphology/)
+  * [Climatic Geomorphology & Morphogenetic Regions](https://lotusarise.com/climatic-geomorphology-morphogenetic-regions/)
+  * [Folds, Faults & Structural Landforms](https://lotusarise.com/folds-faults-nappes-structural-landforms/)
+  * [Anthropogenic Geomorphology](https://lotusarise.com/anthropogenic-geomorphology/)
+
+### 2. PSIR (Political Science & International Relations)
+* **[PSIR Optional Mains Master Kit](https://lotusarise.com/course/psir-optional-mains-master-kit/)** — Exhaustive coverage of Western & Indian Political Thought, Political Theory, Comparative Politics, Indian Government & Politics (IGP), and International Relations (India and the World).
+* **[PSIR Optional Complete Notes](https://lotusarise.com/course/psir-optional-complete-notes/)** — Structured chapter-by-chapter notes designed for high-scoring answer writing.
+
+### 3. History Optional
+* **[History Optional Mains Master Kit](https://lotusarise.com/course/history-optional-mains-master-kit/)** — Complete source-based study material covering Ancient India, Medieval India, Modern India, and World History.
+* **[History Optional PYQ Master Pack for UPSC](https://lotusarise.com/course/history-optional-pyq-master-pack-upsc/)** — Topic-classified past year questions with detailed historiographical answers.
+* **[UPSC History Optional Complete Notes PDF](https://lotusarise.com/course/upsc-history-optional-complete-notes-pdf/)** — Consolidated PDF notes.
+
+### 4. Sociology Optional
+* **[Sociology Optional Mains Master Kit](https://lotusarise.com/course/sociology-optional-mains-master-kit/)** — Comprehensive coverage of sociological thinkers (Marx, Weber, Durkheim, Mead, Parsons, Merton), stratification, politics, religion, kinship, and Indian society.
+* **[Sociology Optional PYQ Solutions (Topic-Wise)](https://lotusarise.com/course/sociology-optional-pyq-solutions-topic-wise/)** — Structured model answers for past Mains papers.
+
+### 5. Prelims PYQs & Explanatory Solutions
+* **[UPSC Prelims PYQs with Detailed Explanations](https://lotusarise.com/course/upsc-prelims-pyqs-solutions/)** — Subject-wise and topic-wise segregated questions with conceptual breakdowns.
+* **[LotusArise InShorts Revision Hub](https://lotusarise.com/inshorts/)** — Fast revision cards covering Government Schemes, International Organizations, Environmental Treaties, and Science & Tech developments.
 
 ---
 
@@ -124,7 +163,7 @@ NCERTs form the bedrock of civil services conceptual clarity.
 
 ---
 
-## 🎯 Optional Subjects Master Compilations
+## 🎯 UPSC Club Optional Subjects Master Compilations
 
 High-scoring optional subjects require specialized reference materials:
 
@@ -185,4 +224,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## 📄 License & Disclaimer
 
 * **License**: This repository is open-sourced under the [MIT License](LICENSE).
-* **Disclaimer**: This project and [UPSC Club](https://upscclub.com/) are independent educational initiatives providing compiled, organized resources for civil services aspirants. We are not officially affiliated with the Union Public Service Commission (UPSC) or the Government of India.
+* **Disclaimer**: This project, [UPSC Club](https://upscclub.com/), and [LotusArise](https://lotusarise.com/) are independent educational initiatives providing compiled, organized resources for civil services aspirants. We are not officially affiliated with the Union Public Service Commission (UPSC) or the Government of India.
